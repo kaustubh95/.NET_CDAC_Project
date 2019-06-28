@@ -1,0 +1,48 @@
+JSON  Overview
+
+JSON  
+
+JSON stands for JavaScript Object Notation.
+
+It is a lightweight text-based open standard designed for human-readable data interchange. Its light weight alternative to XML for exchanging data on the network.
+
+Conventions used by JSON are known to programmers which include C, C++, Java, Python, Perl etc.
+
+  
+This format was specified by Douglas Crockford. This was designed for human-readable data interchange 
+
+Extended from the JavaScript scripting language.
+
+The filename extension is .json
+
+JSON Internet Media type is application/json 
+
+Uses of JSON
+
+1. Used in  JavaScript based application which includes websites development. 
+
+2. JSON format is used for serializing & transmitting structured data over network connection. 
+
+3. This is primarily used to transmit data between server and client application. 
+
+4. Web Services use JSON format to provide public data.
+
+5. It can be used with modern programming languages.
+
+Java JSON
+
+Support exists in different varieties
+
+1. Jackson json library -- JAR
+2. Google GSon
+3. Json.simple
+
+
+
+
+
+
+
+
+
+
